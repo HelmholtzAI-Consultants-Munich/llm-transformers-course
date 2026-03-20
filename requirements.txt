@@ -1,0 +1,13 @@
+transformers
+datasets
+evaluate
+scikit-learn
+Pillow
+torch
+torchvision
+torchaudio
+torchinfo
+requests
+matplotlib
+seaborn
+numpy

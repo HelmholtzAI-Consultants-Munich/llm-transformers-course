@@ -12,7 +12,7 @@ Learning objectives:
 ## Venue
 The course will be fully online:
 [Zoom link](https://us02web.zoom.us/j/83387526921?pwd=Uo7BBXz249kCzp2SlkyAg9ZMuYREDw.1)  
-Meeting ID: 833 8752 6921 
+Meeting ID: 833 8752 6921  
 Passcode: 615095
 
 ## Schedule
@@ -29,7 +29,7 @@ Passcode: 615095
 
 ## Requirements and Setup
 
-It is possible to either create an environment and install all the necessary packages locally (using the requirements.txt file) or to execute the notebooks on the browser, by clicking the 'Open in Colab' button (RECOMMENDED). This second option doesn't require any further installation, but the user must have access to a Google account.
+It is possible to either create a local environment and install all the necessary packages (using the requirements.txt file), or to run the notebooks directly in the browser by clicking the **“Open in Colab”** button (**recommended**). This second option does not require any installation, but you will need access to a Google account.
 
 *Add here info about, craete and env, requirement file, small test and how to clone the repo*
 
@@ -37,4 +37,6 @@ It is possible to either create an environment and install all the necessary pac
 
 Comments and input are very welcome! If you have a suggestion or you think something should be changed, please open an issue or submit a pull request. 
 
-All content is publicly available under the MIT license
+## License
+
+This project is licensed under the MIT License.

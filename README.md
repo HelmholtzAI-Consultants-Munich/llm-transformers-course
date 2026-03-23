@@ -15,6 +15,48 @@ The course will be fully online:
 Meeting ID: 833 8752 6921  
 Passcode: 615095
 
+## Requirements and Setup
+We strongly recommend launching the provided notebook with Google Colab in order to execute the code in a self-contained and verified working environment. In this case, no setup is required.
+
+In case you wish not to use Google Colab, you can install and run the notebooks locally by following the guide below. 
+
+
+#### Download the course content
+```
+git clone https://github.com/HelmholtzAI-Consultants-Munich/llm-transformers-course.git
+```
+Or enter the [repository](https://github.com/HelmholtzAI-Consultants-Munich/llm-transformers-course.git) and press `Code` -> `Download ZIP`
+
+#### Create the virtual environment
+Enter the directory you have downloaded:
+```
+cd llm-transformers-course
+```
+Create the virtual environment.
+You can either use a virtual environment or a `conda` environment:
+```
+# virtual environment
+python3 -m venv .venv
+source .venv/bin/activate
+```
+```
+# or conda
+conda create -n llm_course python=3.13
+conda activate llm_course
+```
+#### Then, follow jupyter notebook installation requirements [here](https://jupyter.org/install).
+
+#### Finally, install the requirements of this workshop by running `pip install -r requirements.txt`.
+
+#### Run the notebook with jupyter
+```
+jupyter notebook Transformer_finetuning_tutorial.ipynb
+```
+A browser window will open, navigate to the `.ipynb` file. Alternatively, you can open it with VSCode.
+
+**Warning**: Newer versions of Python sometimes don't work with jupyter notebooks. If you encounter 404 errors when running the notebook, switch to Python 3.11.
+
+
 ## Schedule
 
 <img width="612" height="660" alt="Screenshot 2026-03-20 at 09 58 00" src="https://github.com/user-attachments/assets/dbce65d3-7d8d-4313-beb0-6c84e9ed2ef6" />

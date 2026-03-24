@@ -73,8 +73,6 @@ A browser window will open, navigate to the `.ipynb` file. Alternatively, you ca
 
 It is possible to either create a local environment and install all the necessary packages (using the requirements.txt file), or to run the notebooks directly in the browser by clicking the **“Open in Colab”** button (**recommended**). This second option does not require any installation, but you will need access to a Google account.
 
-*Add here info about, craete and env, requirement file, small test and how to clone the repo*
-
 ## Contributions
 
 Comments and input are very welcome! If you have a suggestion or you think something should be changed, please open an issue or submit a pull request. 

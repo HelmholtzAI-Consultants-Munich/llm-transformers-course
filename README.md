@@ -56,6 +56,9 @@ A browser window will open, navigate to the `.ipynb` file. Alternatively, you ca
 
 **Warning**: Newer versions of Python sometimes don't work with jupyter notebooks. If you encounter 404 errors when running the notebook, switch to Python 3.11.
 
+## Solutions
+Notebook solutions are now available. Please see the solutions notebook for solutions to the exercises.
+
 
 ## Schedule
 

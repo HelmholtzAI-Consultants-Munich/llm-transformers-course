@@ -82,4 +82,9 @@ Comments and input are very welcome! If you have a suggestion or you think somet
 
 ## License
 
-This project is licensed under the MIT License.
+This repository contains both source code and teaching materials, which are licensed separately:
+
+- **Code** (notebooks, scripts, and other software) is licensed under the MIT License. See the `LICENSE` file.
+- **Teaching materials** (slides, figures, and written explanations) are licensed under the Creative Commons Attribution 4.0 License. See the `LICENSE-CONTENT` file.
+
+[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)

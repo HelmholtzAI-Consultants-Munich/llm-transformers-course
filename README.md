@@ -86,9 +86,9 @@ The course runs over two half-days.
 
 - [Karol Szustakowski](mailto:karol.szustakowski@helmholtz-munich.de), Helmholtz Munich 
 - [Donatella Cea](mailto:donatella.cea@helmholtz-munich.de), Helmholtz Munich
-- Marcella Astrid, Helmholtz Munich
-- Jonas Hagenberg, Helmholtz Munich
-- Serena Sritharan, Helmholtz Munich
+- [Marcella Astrid](mailto:marcella.astrid@helmholtz-munich.de), Helmholtz Munich
+- [Jonas Hagenberg](mailto:jonas.hagenberg@helmholtz-munich.de), Helmholtz Munich
+- [Serena Sritharan](mailto:serena.sritharan@helmholtz-munich.de), Helmholtz Munich
 
 ## Contributions
 

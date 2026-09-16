@@ -59,7 +59,28 @@ A browser window will open, navigate to the `.ipynb` file. Alternatively, you ca
 
 ## Schedule
 
-<img width="612" height="660" alt="Screenshot 2026-03-20 at 09 58 00" src="https://github.com/user-attachments/assets/dbce65d3-7d8d-4313-beb0-6c84e9ed2ef6" />
+The course runs over two half-days.
+
+### Day 1
+
+| Time | Session | Duration |
+|---|---|---|
+| 09:00 - 09:15 | Welcome | 15 min |
+| 09:15 - 10:45 | Introduction to Language Modeling | 1 h 30 min |
+| 10:45 - 11:00 | Break | 15 min |
+| 11:00 - 12:00 | Blablador: concept, models description. Optional: integration in VS Code | 1 h |
+| 12:00 - 12:30 | Q&A | 30 min |
+
+### Day 2
+
+| Time | Session | Duration |
+|---|---|---|
+| 09:00 - 09:15 | Welcome | 15 min |
+| 09:15 - 10:15 | Attention, self-attention, transformer architecture | 1 h |
+| 10:15 - 10:30 | Break | 15 min |
+| 10:30 - 10:45 | Pre-training vs fine-tuning and foundation models (introduction for the hands-on session) | 15 min |
+| 10:45 - 12:15 | Hands-on: fine-tune a model on a downstream task (in breakout rooms) | 1 h 30 min |
+| 12:15 - 12:30 | Q&A, wrap-up and conclusion | 15 min |
 
 ## Mentors
 

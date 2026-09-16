@@ -12,7 +12,8 @@ Learning objectives:
 ## Venue
 The course will be fully online:
 [Zoom link](https://zoom.us/j/98382888189?pwd=gI0mQoxXOYT5OYSnbdpB7bD38WTeNb.1)  
-Meeting ID: 983 8288 8189
+Meeting ID: 983 8288 8189  
+Passcode: 272044
 
 ## Requirements and Setup
 We strongly recommend launching the provided notebook with Google Colab in order to execute the code in a self-contained and verified working environment. In this case, no setup is required.

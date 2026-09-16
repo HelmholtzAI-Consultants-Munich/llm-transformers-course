@@ -1,5 +1,9 @@
-transformers
-datasets
+# Pinned to the major versions verified for this edition (September 2026).
+# transformers 5 and datasets 5 changed behaviour the notebooks rely on,
+# so a jump to 6 must be tested before it reaches participants.
+transformers>=5,<6
+datasets>=5,<6
+accelerate>=1.1
 evaluate
 scikit-learn
 Pillow

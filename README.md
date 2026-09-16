@@ -61,7 +61,7 @@ A browser window will open, navigate to the `.ipynb` file. Alternatively, you ca
 
 The course runs over two half-days.
 
-### Day 1
+### Day 1: Thursday, 17 September 2026
 
 | Time | Session | Duration |
 |---|---|---|
@@ -71,7 +71,7 @@ The course runs over two half-days.
 | 11:00 - 12:00 | Blablador: concept, models description. Optional: integration in VS Code | 1 h |
 | 12:00 - 12:30 | Q&A | 30 min |
 
-### Day 2
+### Day 2: Friday, 18 September 2026
 
 | Time | Session | Duration |
 |---|---|---|

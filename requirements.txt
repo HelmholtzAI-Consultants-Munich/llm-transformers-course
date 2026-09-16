@@ -11,3 +11,5 @@ requests
 matplotlib
 seaborn
 numpy
+jupyter
+ipywidgets

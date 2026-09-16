@@ -32,21 +32,23 @@ Enter the directory you have downloaded:
 ```
 cd llm-transformers-course
 ```
-Create the virtual environment.
+Create the virtual environment. The course needs **Python 3.12 or newer**.
 You can either use a virtual environment or a `conda` environment:
 ```
 # virtual environment
-python3 -m venv .venv
+python3.12 -m venv .venv
 source .venv/bin/activate
 ```
 ```
 # or conda
-conda create -n llm_course python=3.13
+conda create -n llm_course python=3.12
 conda activate llm_course
 ```
-#### Then, follow jupyter notebook installation requirements [here](https://jupyter.org/install).
+#### Install the requirements of this workshop by running `pip install -r requirements.txt`.
+This includes Jupyter, so no separate installation is needed.
 
-#### Finally, install the requirements of this workshop by running `pip install -r requirements.txt`.
+#### Check the installation
+Open `verify_install.ipynb` and run it. It prints which Python your kernel is using and imports the packages the notebooks need, so you can confirm the setup before the course starts.
 
 #### Run the notebook with jupyter
 ```
@@ -54,7 +56,6 @@ jupyter notebook Transformer_finetuning_tutorial.ipynb
 ```
 A browser window will open, navigate to the `.ipynb` file. Alternatively, you can open it with VSCode.
 
-**Warning**: Newer versions of Python sometimes don't work with jupyter notebooks. If you encounter 404 errors when running the notebook, switch to Python 3.11.
 
 ## Solutions
 Notebook solutions are now available. Please see the solutions notebook for solutions to the exercises.
@@ -71,10 +72,6 @@ Notebook solutions are now available. Please see the solutions notebook for solu
 - Marcela Astrid, Helmholtz Munich
 - Corrado Pancotti, Helmholtz Munich
 - Leo Kaindl, Helmholtz Munich
-
-## Requirements and Setup
-
-It is possible to either create a local environment and install all the necessary packages (using the requirements.txt file), or to run the notebooks directly in the browser by clicking the **“Open in Colab”** button (**recommended**). This second option does not require any installation, but you will need access to a Google account.
 
 ## Contributions
 

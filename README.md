@@ -57,10 +57,6 @@ jupyter notebook Transformer_finetuning_tutorial.ipynb
 A browser window will open, navigate to the `.ipynb` file. Alternatively, you can open it with VSCode.
 
 
-## Solutions
-Notebook solutions are now available. Please see the solutions notebook for solutions to the exercises.
-
-
 ## Schedule
 
 <img width="612" height="660" alt="Screenshot 2026-03-20 at 09 58 00" src="https://github.com/user-attachments/assets/dbce65d3-7d8d-4313-beb0-6c84e9ed2ef6" />
@@ -70,8 +66,6 @@ Notebook solutions are now available. Please see the solutions notebook for solu
 - [Karol Szustakowski](mailto:karol.szustakowski@helmholtz-munich.de), Helmholtz Munich 
 - [Donatella Cea](mailto:donatella.cea@helmholtz-munich.de), Helmholtz Munich
 - Marcela Astrid, Helmholtz Munich
-- Corrado Pancotti, Helmholtz Munich
-- Leo Kaindl, Helmholtz Munich
 
 ## Contributions
 
